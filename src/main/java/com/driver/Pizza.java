@@ -6,7 +6,6 @@ public class Pizza {
     private Boolean isVeg;
     private String bill;
 
-
     boolean extraCheeseAdded;
     boolean extraToppingsAdded;
     boolean takeAwayAdded;
